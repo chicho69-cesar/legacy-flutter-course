@@ -1,25 +1,3 @@
-*.cc
-*.cpp
-*.cmake
-
-android/
-ios/
-linux/
-web/
-macos/
-windows/
-
-.DS_Store
-.atom/
-.idea
-.packages
-.pub/
-build/
-ios/.generated/
-packages
-pubspec.lock
-.flutter-plugins
-
 # Miscellaneous
 *.class
 *.log
